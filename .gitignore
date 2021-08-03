@@ -1,3 +1,17 @@
+
+
+#Shapefiles
+*.shp
+*.cpg
+*.prj
+*.dbf
+*.shx
+*.txt
+
+#GPS
+*.gpx
+
+
 # History files
 .Rhistory
 .Rapp.history
